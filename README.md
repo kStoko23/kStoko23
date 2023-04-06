@@ -21,8 +21,8 @@ I'm a second-year Computer Science student from Poland, passionate about mobile 
 
 ## 📚 Currently Learning
 
-- **Web Development**: Angular.js, Ionic 6
-- **Mobile Development**: Android Studio
+- **Web Development**: Angular.js
+- **Mobile Development**: Android Studio, Xamarin
 
 ## 📫 Get in Touch
 
