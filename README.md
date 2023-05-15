@@ -22,7 +22,7 @@ I'm a second-year Computer Science student from Poland, passionate about mobile 
 ## 📚 Currently Learning
 
 - **Web Development**: Angular.js
-- **Mobile Development**: Android Studio, Xamarin
+- **Mobile Development**: Android Studio, .NET Maui
 
 ## 📫 Get in Touch
 
