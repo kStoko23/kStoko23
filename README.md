@@ -15,7 +15,7 @@ I'm a second-year Computer Science student from Poland, passionate about mobile 
 ## 🛠 Skills
 
 - **Programming Languages**: C#, Java, JavaScript
-- **Web Development**: HTML, CSS
+- **Web Development**: Angular
 - **Mobile App Development**: Android Studio, Ionic 6
 - **Game Development**: Unity
 
