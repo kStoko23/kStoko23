@@ -16,13 +16,14 @@ I'm a second-year Computer Science student from Poland, passionate about mobile 
 
 - **Programming Languages**: C#, Java, JavaScript
 - **Web Development**: Angular
-- **Mobile App Development**: Android Studio, Ionic 6
-- **Game Development**: Unity
+- **Mobile App Development**: Ionic 6, Android Studio
+- **Game Development**: Unity 3D
 
 ## 📚 Currently Learning
 
-- **Web Development**: Angular.js
-- **Mobile Development**: Android Studio, .NET Maui
+- More Angular
+- Flutter
+- Minecraft modding with Forge
 
 ## 📫 Get in Touch
 
