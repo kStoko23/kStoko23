@@ -2,7 +2,7 @@
 
 <!--![Banner image showcasing Kuba's passion for coding, sailing, and snowboarding](https://example.com/path-to-banner-image/banner.jpg)-->
 
-I'm a second-year Computer Science student from Poland, passionate about mobile app development, game development, sailing, snowboarding, and all things tech! When I'm not coding, I love learning about new tech trends, PC hardware, video games and sailing adventures.
+I'm a third-year Computer Science student from Poland, passionate about mobile app development, game development, sailing, snowboarding, and all things tech! When I'm not coding, I love learning about new tech trends, PC hardware, video games and sailing adventures.
 
 ## 🚀 About Me
 
