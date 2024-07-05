@@ -30,3 +30,6 @@ I'm a third-year Computer Science student from Poland, passionate about mobile a
 - [Email](j.stokowskii23@gmail.com)
 
 ![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=kStoko23&show_icons=true&theme=github_dark)
+
+
+[![Kuba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kStoko23&theme=github-compact)](https://github.com/kStoko23/github-readme-activity-graph)
