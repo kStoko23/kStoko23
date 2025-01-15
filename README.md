@@ -1,8 +1,7 @@
-# Hi, I'm Kuba (kStoko23)! 👋
+# Hi, I'm Kuba! 👋
 
-<!--![Banner image showcasing Kuba's passion for coding, sailing, and snowboarding](https://example.com/path-to-banner-image/banner.jpg)-->
 
-I'm a currently pursuing my Master's in Computer Science, based in Poland. I'm passionate about web development and vast world of matemathics and also sailing, snowboarding, and all things tech! When I'm not coding, I love learning about new tech trends, PC hardware, video games and sailing adventures.
+I'm a freelance web developer, a sailor and a gamer. My current portfolio is WIP, but feel free to look around my public repos :)
 
 ## 🚀 About Me
 
@@ -10,21 +9,9 @@ I'm a currently pursuing my Master's in Computer Science, based in Poland. I'm p
 - 🌱 Passionate about web development
 - ⛵️ When I'm not coding or learning about tech, I'm out on the water sailing, playing some of my favorite games or hitting the slopes for some snowboarding action.
 
-## 🛠 Skills
-
-- **Programming Languages**: Python, Java, JavaScript
-- **Web Development**: Angular
-- **Mobile App Development**: Ionic 6, Android Studio
-
-## 📚 Currently Learning
-
-- More web dev with Angular
-- Minecraft modding with Forge
-
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/jakub-stokowski-763baa232/)
-- [Email](j.stokowskii23@gmail.com)
 
 ![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=kStoko23&show_icons=true&theme=github_dark)
 
